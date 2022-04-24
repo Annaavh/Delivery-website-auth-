@@ -1,0 +1,96 @@
+{
+  "register": [
+    {
+      "name": "Anna",
+      "surname": "Avetisyan",
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "confirmpassword": "3791635Jw",
+      "checkbox": true,
+      "id": 1
+    },
+    {
+      "name": "Anna",
+      "surname": "Avetisyan",
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "confirmpassword": "3791635Jw",
+      "checkbox": true,
+      "id": 2
+    }
+  ],
+  "login": [
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 1
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 2
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 3
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 4
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 5
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 6
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 7
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 8
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 9
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 10
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 11
+    },
+    {
+      "email": "annaavetisyan175@gmail.com",
+      "password": "3791635Jw",
+      "checkbox": true,
+      "id": 12
+    }
+  ]
+}
